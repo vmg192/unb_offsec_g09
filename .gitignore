@@ -1,0 +1,69 @@
+# -----------------------------
+# macOS
+# -----------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# -----------------------------
+# Logs e temporários
+# -----------------------------
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+
+# -----------------------------
+# Compilação (C, C++, Java, etc.)
+# -----------------------------
+*.o
+*.out
+*.obj
+*.class
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyc
+*.pyo
+__pycache__/
+
+# -----------------------------
+# Node / JavaScript
+# -----------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -----------------------------
+# Python
+# -----------------------------
+.venv/
+env/
+venv/
+*.egg-info/
+*.egg
+dist/
+build/
+
+# -----------------------------
+# IDEs e editores
+# -----------------------------
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# -----------------------------
+# Outros
+# -----------------------------
+Thumbs.db
+desktop.ini
+.env
